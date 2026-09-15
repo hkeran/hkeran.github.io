@@ -90,7 +90,7 @@ files an agent should inspect.
 
 ## Commands
 
-```bash
+```bash 
 npm run dev             # Start the development server
 npm run format          # Format with Prettier and Biome
 npm run lint            # Run Biome checks
